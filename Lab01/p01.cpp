@@ -1,6 +1,6 @@
 #include <iostream>
 
-struct Node
+struct Nod
 {
     int data;
     Node* prev;
